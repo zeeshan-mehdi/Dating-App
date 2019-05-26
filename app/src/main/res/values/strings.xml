@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Need To Date</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_settings_dialog">Permissions Required</string>
+    <string name="rationale_video_app">This app needs access to your camera and mic to make video calls</string>
+    <string name="rationale_ask_again">This app may not work correctly without the requested permissions. Open the app settings screen to modify app permissions.</string>
+
+    <string name="setting">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="fb_login_protocol_scheme">fb670100470129316</string>
+
+
+    <string name="facebook_app_id">670100470129316</string>
+
+    <string name="icon_desc">Ad icon</string>
+    <string name="sponsored">Sponsored</string>
+    <string name="save_username">Save Your Name</string>
+    <string name="sttr">1. Default channel name is voiceDemoChannel1\n2. Waiting for remote users\n3. This demo only supports 1v1 voice calling</string>
+
+    <!-- <string name="banner_ads_1">ca-app-pub-2925061067343621/9066030524</string> -->
+
+    <string name="running_text">...................Welcome to our Talk English Community. Now You can talk to random people all around the world. Never use offensive or abusive language. Respect ladies. Exit from the app if you don\'t want to receive calls............</string>
+    <string name="rate_us_link">https://play.google.com/store/apps/details?id=com.talkenglish.myapplication</string>
+    <string name="privacy_policy">https://sites.google.com/view/officialdevelopers/home</string>
+    <string name="more_apps">https://play.google.com/store/apps/developer?id=TalkEnglishCommunity</string>
+    <string name="image_desc">Ad image</string>
+    <string name="banner_ads">banner ads</string>
+
+</resources>

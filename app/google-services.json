@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "166051301140",
+    "firebase_url": "https://flutter-app-67d8a.firebaseio.com",
+    "project_id": "flutter-app-67d8a",
+    "storage_bucket": "flutter-app-67d8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166051301140:android:741c75fa555906cb",
+        "android_client_info": {
+          "package_name": "com.dating.dateit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166051301140-f997oq5n8eo26l6sg3gk4p8e8btqjcri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwTsclkEw3TKZ-SFrApiJBUZF9QWOhC74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166051301140-f997oq5n8eo26l6sg3gk4p8e8btqjcri.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "166051301140-d5v00pkn0h33cr7pmk42u1erbgt5eqsh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dating.dateit"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166051301140:android:57413c1b990950ff",
+        "android_client_info": {
+          "package_name": "com.dating.needtodate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166051301140-f997oq5n8eo26l6sg3gk4p8e8btqjcri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwTsclkEw3TKZ-SFrApiJBUZF9QWOhC74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166051301140-f997oq5n8eo26l6sg3gk4p8e8btqjcri.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "166051301140-d5v00pkn0h33cr7pmk42u1erbgt5eqsh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dating.dateit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

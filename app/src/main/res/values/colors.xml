@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="publisher_border_color">#FFFFFF</color>
+    <color name="colorPrimaryDark">#0B7f43</color>
+    <color name="colorPrimary">#0F9D58</color>
+    <color name="colorAccent">#0F9D58</color>
+
+    <color name="btn_bg">#ade234</color>
+    <color name="whitey">#fff</color>
+    <color name="screen_color">#1e4348</color>
+    <color name="black">#000000</color>
+
+</resources>

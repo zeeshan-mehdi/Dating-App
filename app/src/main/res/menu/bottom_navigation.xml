@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="Private Chat"
+
+          android:icon="@drawable/ic_chat_black_24dp"
+          android:id="@+id/chat"/>
+
+    <item android:title="Video Call"
+
+        android:icon="@drawable/ic_videocam_black_24dp"
+        android:id="@+id/videoCall"/>
+
+    <item android:title="Profile"
+
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:id="@+id/inbox"
+
+        />
+</menu>
